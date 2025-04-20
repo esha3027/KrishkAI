@@ -8,14 +8,13 @@ KrishkAI is a technology platform powered by AI, designed to empower farmers by 
 
 ### 🧠 Knowledge Hub
 - Pose agriculture-related questions in natural language
-- Open-source LLMs (LLaMA 3 / DeepSeek) powered
+- Open-source LLMs (DeepSeek) powered
 - Multilingual support for local users
 
 ### 🌱 Crop Recommendation
 - Recommends the best crops based on:
 - Soil fertility
 - Climate data
-- Market demand
 - ML-based classification from environmental inputs
 
 ### 🐛 Crop Disease Detection
