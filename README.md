@@ -84,13 +84,12 @@ Endpoint Method Description
 /recommend-crop POST Crop recommendation engine
 /detect-disease/image POST Disease detection from image
 /knowledge-hub POST LLM-based query interface
----
 
 ## 🧪 Dataset Used
 PlantDoc Dataset – for training the disease detection model
----
+
 
 ##📌 Acknowledgements
 FastAPI & TensorFlow Teams
 Hugging Face Community Models
----
+
