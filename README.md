@@ -75,7 +75,7 @@ cd ./frontend
 npm install
 npm start
 
-### 🌐 API Endpoints (Backend)
+## 🌐 API Endpoints (Backend)
 
 Endpoint Method Description
 /login POST User login
@@ -84,9 +84,9 @@ Endpoint Method Description
 /detect-disease/image POST Disease detection from image
 /knowledge-hub POST LLM-based query interface
 
-### 🧪 Dataset Used
+## 🧪 Dataset Used
 PlantDoc Dataset – for training the disease detection model
 
-###📌 Acknowledgements
+##📌 Acknowledgements
 FastAPI & TensorFlow Teams
 Hugging Face Community Models
